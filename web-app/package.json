@@ -1,0 +1,18 @@
+{
+  "name": "productivity-planner",
+  "version": "1.0.0",
+  "description": "Simple productivity planner web app with vanilla Node backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "productivity",
+    "planner",
+    "node",
+    "vanilla"
+  ],
+  "author": "",
+  "license": "MIT"
+}
